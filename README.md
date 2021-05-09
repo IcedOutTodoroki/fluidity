@@ -1,5 +1,7 @@
 ![logo](https://github.com/PrettyCoffee/fluidity/blob/main/public/logo192.png)
 
+I (IcedOutTodoroki) just modified it a bit, huge shoutout to PrettyCoffee
+
 # Fluidity - An accordion based startpage
 Here you can find the startpage I created for my browser :)
 
